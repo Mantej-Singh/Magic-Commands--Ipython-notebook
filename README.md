@@ -25,7 +25,9 @@ matplotlib.style.use('ggplot')
 ~~~
 #### This:
 [![screenshot_1491948356.png](https://s19.postimg.org/fk5dtsmk3/screenshot_1491948356.png)](https://postimg.org/image/zerffx1rj/)
-#### To this:
+#### To this(matplotlib 1.5.3):
 [![screenshot_1491948167.png](https://s19.postimg.org/w6my2vfhv/screenshot_1491948167.png)](https://postimg.org/image/7dde27whb/)
 
+### To new version of Matplotlib(matplotlib 2.0.0):
+[![screenshot_1491949040.png](https://s19.postimg.org/735vivhv7/screenshot_1491949040.png)](https://postimg.org/image/ifih0nqjz/)
 
