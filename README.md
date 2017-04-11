@@ -1,6 +1,7 @@
 # Magic-Commands--Ipython-notebook
-
-## Time command:
+## Updated Ipython Notebook and Pandas:
+[![screenshot_1491937196.png](https://s19.postimg.org/rgx0e9ohf/screenshot_1491937196.png)](https://postimg.org/image/6ws6fs8q7/)
+### Time command:
 ### Difference between loc and standard method
 
 ## Loc: 4ms
