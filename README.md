@@ -16,3 +16,13 @@
 -----
 ### 2) Timeit command:
 [![screenshot_1491939792.png](https://s19.postimg.org/wuvslte7n/screenshot_1491939792.png)](https://postimg.org/image/458wp6a7j/)
+----
+### Visualizing the output:
+~~~
+pd.set_option('display.mpl_style', 'default') # Make the graphs a bit prettier
+OR 
+matplotlib.style.use('ggplot')
+~~~
+[![screenshot_1491948167.png](https://s19.postimg.org/w6my2vfhv/screenshot_1491948167.png)](https://postimg.org/image/7dde27whb/)
+
+
