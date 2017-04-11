@@ -13,3 +13,6 @@
 
 ## Standard method: 3ms
 [![screenshot_1491936947.png](https://s19.postimg.org/u8ga4vn03/screenshot_1491936947.png)](https://postimg.org/image/red4rfktr/)
+-----
+### 2) Timeit command:
+[![screenshot_1491939792.png](https://s19.postimg.org/wuvslte7n/screenshot_1491939792.png)](https://postimg.org/image/458wp6a7j/)
