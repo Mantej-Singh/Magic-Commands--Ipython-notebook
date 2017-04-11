@@ -1,5 +1,5 @@
-# Magic-Commands--Ipython-notebook
-## Updated Ipython Notebook and Pandas:
+# Magic Commands-Ipython Notebook
+## Updated Ipython [Notebook](http://jupyter-notebook.readthedocs.io/en/latest/changelog.html) and [Pandas](http://pandas.pydata.org/pandas-docs/stable/whatsnew.html):
 [![screenshot_1491937196.png](https://s19.postimg.org/rgx0e9ohf/screenshot_1491937196.png)](https://postimg.org/image/6ws6fs8q7/)
 ----
 ## List of all Magic Commands:
