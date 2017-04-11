@@ -23,9 +23,9 @@ pd.set_option('display.mpl_style', 'default') # Make the graphs a bit prettier
 OR 
 matplotlib.style.use('ggplot')
 ~~~
-This:
+#### This:
 [![screenshot_1491948356.png](https://s19.postimg.org/fk5dtsmk3/screenshot_1491948356.png)](https://postimg.org/image/zerffx1rj/)
-To this:
+#### To this:
 [![screenshot_1491948167.png](https://s19.postimg.org/w6my2vfhv/screenshot_1491948167.png)](https://postimg.org/image/7dde27whb/)
 
 
